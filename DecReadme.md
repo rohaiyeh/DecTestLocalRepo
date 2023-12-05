@@ -7,3 +7,5 @@ Conflict Local!
 Conflict Remote!
 
 Second Commit Local!
+
+Second conflict remote!
