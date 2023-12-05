@@ -11,3 +11,4 @@ Second Commit Local!
 Second conflict remote!
 
 Branch is created locally.
+branch 2 update locally.
