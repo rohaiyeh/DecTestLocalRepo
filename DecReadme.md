@@ -9,3 +9,5 @@ Conflict Remote!
 Second Commit Local!
 
 Second conflict remote!
+
+Branch is created locally.
